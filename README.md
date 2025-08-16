@@ -53,9 +53,9 @@ src
 
 ### 2️ Install Dependencies
 
-Ensure you have Python 3.8+ installed.
+- Ensure you have Python 3.8+ installed.
 
-Then install required packages:
+- Then install required packages:
 
 ultralytics==8.1.0
 
@@ -83,7 +83,7 @@ The script automatically downloads the sample traffic video from YouTube on firs
 
 Press q anytime to stop the video early.
 
-After processing:
+# After processing:
 
 - **data/output.csv** → contains the vehicle tracking log
 
