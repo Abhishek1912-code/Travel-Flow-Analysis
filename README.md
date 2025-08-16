@@ -55,19 +55,19 @@ src
 
 - Ensure you have Python 3.8+ installed.
 
-- Then install required packages:
+#### Then install required packages:
 
--- ultralytics==8.1.0
+ultralytics==8.1.0
 
--- opencv-python
+opencv-python
 
--- numpy
+numpy
 
--- pandas
+pandas
 
--- sort-tracker
+sort-tracker
 
--- yt-dlp
+yt-dlp
 
 ### 3️. Additional Dependency
 The SORT tracker requires filterpy.
