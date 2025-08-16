@@ -19,4 +19,20 @@ It outputs:
 
 ---
 
-## 
+## traffic_flow_analysis/
+│
+├── data/
+│ ├── video.mp4 # Downloaded traffic video
+│ └── output.csv # Generated vehicle count data
+│
+├── models/
+│ └── yolov8n.pt # YOLOv8 model (auto-downloaded if not found)
+│
+├── src/
+│ ├── init.py
+│ ├── main.py # Main execution script
+│ ├── detector.py # YOLO-based vehicle detection
+│ ├── tracker.py # SORT tracking wrapper
+│ ├── lane_counter.py # Lane definition and counting
+│ ├── sort.py # SORT algorithm implementation
+│ └── utils.py # Video downloading and helpers
