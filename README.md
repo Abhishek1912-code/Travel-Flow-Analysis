@@ -8,7 +8,7 @@ It outputs:
 
 ---
 
-## 📌 Features
+##  Features
 - **Vehicle Detection** using YOLOv8 pretrained on COCO dataset
 - **Tracking** with SORT (Simple Online and Realtime Tracking) to avoid duplicate counts
 - **Three distinct lanes** with independent counters
@@ -47,7 +47,7 @@ src
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 ### 1️⃣ Clone the Repository
 
