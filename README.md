@@ -24,7 +24,6 @@ It outputs:
 ── data
 
 ├── video.mp4 # Downloaded traffic video
-
 └── output.csv # Generated vehicle count data
 
 ── models
@@ -32,7 +31,6 @@ It outputs:
 └── yolov8n.pt # YOLOv8 model (auto-downloaded if not found)
 
 ── src
-├── init.py
 
 ├── main.py # Main execution script
 
