@@ -95,6 +95,20 @@ Vehicle bounding boxes & IDs
 
 Live lane-wise and total vehicle counts
 
+---
+
+## Approach Summary
+
+- Detection: YOLOv8 detects vehicles in each frame
+
+- Tracking: SORT tracks detected vehicles and assigns unique IDs
+
+- Lane Mapping: Each vehicle is assigned a lane based on its center position
+
+- Counting: Counts only new vehicle IDs per lane to avoid duplicates
+
+- Export: Logs all events to CSV and displays real-time overlays
+
 
 
 
