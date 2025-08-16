@@ -52,13 +52,21 @@ src
 ### 1️ Clone the Repository
 
 ### 2️ Install Dependencies
+
 Ensure you have Python 3.8+ installed.
+
 Then install required packages:
+
 ultralytics==8.1.0
+
 opencv-python
+
 numpy
+
 pandas
+
 sort-tracker
+
 yt-dlp
 
 ### 3️ Additional Dependency
@@ -87,13 +95,13 @@ Video window → shows lane boundaries & live counts during processing
 
 ###  Visual Output
 
-The video display shows:
+- The video display shows:
 
-Lane boundaries (colored boxes)
+- Lane boundaries (colored boxes)
 
-Vehicle bounding boxes & IDs
+- Vehicle bounding boxes & IDs
 
-Live lane-wise and total vehicle counts
+- Live lane-wise and total vehicle counts
 
 ---
 
