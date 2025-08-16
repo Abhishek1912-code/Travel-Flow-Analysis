@@ -85,11 +85,11 @@ Press q anytime to stop the video early.
 
 After processing:
 
-- **data/output.csv → contains the vehicle tracking log
+- **data/output.csv** → contains the vehicle tracking log
 
-- **Console output → final vehicle counts per lane
+- **Console output** → final vehicle counts per lane
 
-- **Video window → shows lane boundaries & live counts during processing
+- **Video window** → shows lane boundaries & live counts during processing
 
 ---
 
