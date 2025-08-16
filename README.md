@@ -49,35 +49,35 @@ src
 
 ##  Setup Instructions
 
-### 1️ Clone the Repository
+### 1️. Clone the Repository
 
-### 2️ Install Dependencies
+### 2️. Install Dependencies
 
 - Ensure you have Python 3.8+ installed.
 
 - Then install required packages:
 
-ultralytics==8.1.0
+-- ultralytics==8.1.0
 
-opencv-python
+-- opencv-python
 
-numpy
+-- numpy
 
-pandas
+-- pandas
 
-sort-tracker
+-- sort-tracker
 
-yt-dlp
+-- yt-dlp
 
-### 3️ Additional Dependency
+### 3️. Additional Dependency
 The SORT tracker requires filterpy.
 
-### 4️ Run the Project
+### 4️. Run the Project
 src/main.py
 
 ---
 
-###  Usage
+##  Usage
 
 The script automatically downloads the sample traffic video from YouTube on first run.
 
