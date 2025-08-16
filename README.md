@@ -23,27 +23,27 @@ It outputs:
 
 data
 
-├── video.mp4 # Downloaded traffic video
+├── video.mp4   # Downloaded traffic video
 
-└── output.csv # Generated vehicle count data
+└── output.csv   # Generated vehicle count data
 
 models
 
-└── yolov8n.pt # YOLOv8 model (auto-downloaded if not found)
+└── yolov8n.pt   # YOLOv8 model (auto-downloaded if not found)
 
 src
 
-├── main.py # Main execution script
+├── main.py   # Main execution script
 
-├── detector.py # YOLO-based vehicle detection
+├── detector.py   # YOLO-based vehicle detection
 
-├── tracker.py # SORT tracking wrapper
+├── tracker.py   # SORT tracking wrapper
 
-├── lane_counter.py # Lane definition and counting
+├── lane_counter.py   # Lane definition and counting
 
-├── sort.py # SORT algorithm implementation
+├── sort.py   # SORT algorithm implementation
 
-└── utils.py # Video downloading and helpers
+└── utils.py   # Video downloading and helpers
 
 ---
 
