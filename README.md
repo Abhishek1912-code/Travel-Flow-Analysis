@@ -67,6 +67,8 @@ The SORT tracker requires filterpy.
 ### 4️ Run the Project
 src/main.py
 
+---
+
 ###  Usage
 
 The script automatically downloads the sample traffic video from YouTube on first run.
