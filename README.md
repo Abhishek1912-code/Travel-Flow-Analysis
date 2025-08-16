@@ -21,16 +21,17 @@ It outputs:
 
 ## traffic_flow_analysis/
 
-── data
+data
 
 ├── video.mp4 # Downloaded traffic video
+
 └── output.csv # Generated vehicle count data
 
-── models
+models
 
 └── yolov8n.pt # YOLOv8 model (auto-downloaded if not found)
 
-── src
+src
 
 ├── main.py # Main execution script
 
