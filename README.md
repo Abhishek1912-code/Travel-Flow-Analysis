@@ -81,6 +81,16 @@ Console output → final vehicle counts per lane
 
 Video window → shows lane boundaries & live counts during processing
 
+📸 Visual Output
+
+The video display shows:
+
+Lane boundaries (colored boxes)
+
+Vehicle bounding boxes & IDs
+
+Live lane-wise and total vehicle counts
+
 
 
 
