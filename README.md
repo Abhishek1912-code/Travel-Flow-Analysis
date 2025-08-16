@@ -67,7 +67,7 @@ The SORT tracker requires filterpy.
 ### 4️ Run the Project
 src/main.py
 
-### ▶ Usage
+###  Usage
 
 The script automatically downloads the sample traffic video from YouTube on first run.
 
@@ -80,6 +80,8 @@ data/output.csv → contains the vehicle tracking log
 Console output → final vehicle counts per lane
 
 Video window → shows lane boundaries & live counts during processing
+
+---
 
 ###  Visual Output
 
