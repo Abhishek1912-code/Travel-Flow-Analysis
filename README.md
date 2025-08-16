@@ -49,9 +49,9 @@ src
 
 ##  Setup Instructions
 
-### 1️⃣ Clone the Repository
+### 1️ Clone the Repository
 
-### 2️⃣ Install Dependencies
+### 2️ Install Dependencies
 Ensure you have Python 3.8+ installed.
 Then install required packages:
 ultralytics==8.1.0
@@ -61,13 +61,13 @@ pandas
 sort-tracker
 yt-dlp
 
-### 3️⃣ Additional Dependency
+### 3️ Additional Dependency
 The SORT tracker requires filterpy.
 
-### 4️⃣ Run the Project
+### 4️ Run the Project
 src/main.py
 
-### ▶️ Usage
+### ▶ Usage
 
 The script automatically downloads the sample traffic video from YouTube on first run.
 
@@ -81,7 +81,7 @@ Console output → final vehicle counts per lane
 
 Video window → shows lane boundaries & live counts during processing
 
-### 📸 Visual Output
+###  Visual Output
 
 The video display shows:
 
