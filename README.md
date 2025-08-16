@@ -19,7 +19,7 @@ It outputs:
 
 ---
 
-## traffic_flow_analysis/
+## Traffic_flow_analysis
 
 data
 
@@ -44,3 +44,13 @@ src
 ├── sort.py # SORT algorithm implementation
 
 └── utils.py # Video downloading and helpers
+
+---
+
+## ⚙️ Setup Instructions
+
+### 1️⃣ Clone the Repository
+```bash
+git clone <your-repo-url>
+cd traffic_flow_analysis
+
