@@ -51,6 +51,36 @@ src
 
 ### 1️⃣ Clone the Repository
 
+2️⃣ Install Dependencies
+Ensure you have Python 3.8+ installed.
+Then install required packages:
+ultralytics==8.1.0
+opencv-python
+numpy
+pandas
+sort-tracker
+yt-dlp
+
+3️⃣ Additional Dependency
+The SORT tracker requires filterpy.
+
+4️⃣ Run the Project
+src/main.py
+
+▶️ Usage
+
+The script automatically downloads the sample traffic video from YouTube on first run.
+
+Press q anytime to stop the video early.
+
+After processing:
+
+data/output.csv → contains the vehicle tracking log
+
+Console output → final vehicle counts per lane
+
+Video window → shows lane boundaries & live counts during processing
+
 
 
 
